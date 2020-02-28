@@ -87,6 +87,8 @@ csx/
 AppPackages/
 
 # Others
+node_modules/
+.vscode/
 sql/
 *.Cache
 ClientBin/
