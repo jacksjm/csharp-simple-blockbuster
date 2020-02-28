@@ -15,3 +15,5 @@ jobs:
       uses: actions/setup-dotnet@v1
     - name: Build with dotnet
       run: dotnet build
+    - name: validate-license-action
+      uses: datreeio/validate-license-action@v1.0.0
